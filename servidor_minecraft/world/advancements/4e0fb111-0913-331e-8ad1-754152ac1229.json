@@ -1,0 +1,297 @@
+{
+  "slashblade:arts/aerial_cleave": {
+    "criteria": {
+      "customtrigger": "2024-12-01 19:10:50 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/upperslash": {
+    "criteria": {
+      "customtrigger": "2024-12-01 19:10:53 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_a": {
+    "criteria": {
+      "customtrigger": "2024-12-01 19:24:12 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_c": {
+    "criteria": {
+      "customtrigger": "2024-12-01 19:21:42 +0000"
+    },
+    "done": true
+  },
+  "easypaxellite:netherite_paxel": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 18:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-01 19:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-01 18:56:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-01 18:56:00 +0000"
+    },
+    "done": true
+  },
+  "slashblade:movesets": {
+    "criteria": {
+      "crafting": "2024-12-01 18:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-01 19:10:53 +0000",
+      "minecraft:spider": "2024-12-01 19:24:18 +0000",
+      "minecraft:zombie": "2024-12-01 19:21:45 +0000"
+    },
+    "done": false
+  },
+  "slashblade:arts/judgement_cut_just": {
+    "criteria": {
+      "customtrigger": "2024-12-01 19:24:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 18:52:38 +0000"
+    },
+    "done": true
+  },
+  "easypaxellite:diamond_paxel": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 18:52:38 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-01 18:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-01 19:08:33 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-12-01 18:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-01 19:10:53 +0000"
+    },
+    "done": true
+  },
+  "easypaxellite:iron_paxel": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 18:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:bamboo_jungle": "2024-12-01 18:54:17 +0000",
+      "minecraft:savanna_plateau": "2024-12-01 18:58:34 +0000",
+      "minecraft:sparse_jungle": "2024-12-01 18:54:19 +0000",
+      "minecraft:river": "2024-12-01 18:53:42 +0000",
+      "minecraft:dripstone_caves": "2024-12-01 19:11:27 +0000",
+      "minecraft:forest": "2024-12-01 18:55:12 +0000",
+      "minecraft:desert": "2024-12-01 18:52:40 +0000",
+      "minecraft:jungle": "2024-12-01 18:54:02 +0000",
+      "minecraft:savanna": "2024-12-01 18:58:11 +0000",
+      "minecraft:plains": "2024-12-01 18:59:32 +0000"
+    },
+    "done": false
+  },
+  "slashblade:material/proudsoul_tiny": {
+    "criteria": {
+      "BrokenBlade": "2024-12-01 18:55:50 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/kick_jump": {
+    "criteria": {
+      "customtrigger": "2024-12-01 19:16:03 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-01 18:52:38 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/trick_up": {
+    "criteria": {
+      "customtrigger": "2024-12-01 19:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-12-01 19:03:45 +0000",
+      "mutton": "2024-12-01 18:59:23 +0000"
+    },
+    "done": false
+  },
+  "slashblade:blade/s_bamboo": {
+    "criteria": {
+      "crafting": "2024-12-01 19:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-01 19:12:37 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2024-12-01 18:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-01 18:59:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-01 18:52:38 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_a": {
+    "criteria": {
+      "customtrigger": "2024-12-01 19:17:01 +0000"
+    },
+    "done": true
+  },
+  "mahoutsukai:root": {
+    "criteria": {
+      "mahoutsukai": "2024-12-01 18:59:55 +0000"
+    },
+    "done": true
+  },
+  "easypaxellite:golden_paxel": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 18:52:38 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-12-01 18:52:38 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/rising_star": {
+    "criteria": {
+      "customtrigger": "2024-12-01 19:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-01 19:14:23 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_wood": {
+    "criteria": {
+      "crafting": "2024-12-01 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "slashblade:tips/reforge": {
+    "criteria": {
+      "customtrigger": "2024-12-01 19:21:11 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/trick_dodge": {
+    "criteria": {
+      "customtrigger": "2024-12-01 19:15:11 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/quick_charge": {
+    "criteria": {
+      "customtrigger": "2024-12-01 19:24:17 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/rapid_slash": {
+    "criteria": {
+      "customtrigger": "2024-12-01 19:21:46 +0000"
+    },
+    "done": true
+  },
+  "easypaxellite:stone_paxel": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 18:52:38 +0000"
+    },
+    "done": true
+  },
+  "slashblade:root": {
+    "criteria": {
+      "attackTheEntity": "2024-12-01 18:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-01 18:56:42 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_silverbamboo": {
+    "criteria": {
+      "crafting": "2024-12-01 19:27:04 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/root": {
+    "criteria": {
+      "obtain_crafting_table": "2024-12-01 18:56:42 +0000"
+    },
+    "done": true
+  },
+  "easypaxellite:wooden_paxel": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 18:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-01 19:19:10 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

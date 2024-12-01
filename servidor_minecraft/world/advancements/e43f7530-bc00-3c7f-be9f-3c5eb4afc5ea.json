@@ -239,8 +239,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-01 01:36:16 +0000",
+      "minecraft:hoglin": "2024-12-01 19:27:03 +0000",
       "minecraft:creeper": "2024-12-01 01:36:19 +0000",
-      "minecraft:zombie": "2024-12-01 01:47:42 +0000"
+      "minecraft:piglin": "2024-12-01 19:20:56 +0000",
+      "minecraft:enderman": "2024-12-01 19:22:11 +0000",
+      "minecraft:zombie": "2024-12-01 01:47:42 +0000",
+      "quark:foxhound": "2024-12-01 19:23:23 +0000"
     },
     "done": false
   },
@@ -337,6 +341,75 @@
   "mahoutsukai:bakuretsu": {
     "criteria": {
       "bakuretsu": "2024-12-01 18:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-01 19:15:07 +0000"
+    },
+    "done": true
+  },
+  "mahoutsukai:treasury_projection": {
+    "criteria": {
+      "treasury_projection": "2024-12-01 18:54:27 +0000"
+    },
+    "done": true
+  },
+  "mahoutsukai:beam": {
+    "criteria": {
+      "beam": "2024-12-01 19:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-01 19:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-01 19:23:55 +0000",
+      "minecraft:nether_wastes": "2024-12-01 19:20:39 +0000",
+      "minecraft:basalt_deltas": "2024-12-01 19:18:23 +0000",
+      "minecraft:warped_forest": "2024-12-01 19:21:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-01 19:18:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2024-12-01 19:29:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-01 19:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-01 19:09:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2024-12-01 19:29:01 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:eat_bombegranate": {
+    "criteria": {
+      "eat_bombegranate": "2024-12-01 19:05:52 +0000"
     },
     "done": true
   },
