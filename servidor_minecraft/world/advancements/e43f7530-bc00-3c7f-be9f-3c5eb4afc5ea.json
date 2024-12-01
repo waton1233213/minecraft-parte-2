@@ -334,5 +334,11 @@
     },
     "done": true
   },
+  "mahoutsukai:bakuretsu": {
+    "criteria": {
+      "bakuretsu": "2024-12-01 18:45:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
