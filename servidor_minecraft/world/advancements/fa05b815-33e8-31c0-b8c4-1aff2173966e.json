@@ -88,6 +88,7 @@
       "quark:glimmering_weald": "2024-12-01 01:47:03 +0000",
       "minecraft:river": "2024-12-01 02:11:56 +0000",
       "minecraft:dripstone_caves": "2024-12-01 01:33:21 +0000",
+      "minecraft:forest": "2024-12-01 02:19:58 +0000",
       "minecraft:desert": "2024-12-01 01:21:11 +0000",
       "minecraft:plains": "2024-12-01 01:21:21 +0000"
     },
@@ -189,6 +190,18 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-01 01:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-01 02:25:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2024-12-01 02:25:19 +0000"
     },
     "done": true
   },
