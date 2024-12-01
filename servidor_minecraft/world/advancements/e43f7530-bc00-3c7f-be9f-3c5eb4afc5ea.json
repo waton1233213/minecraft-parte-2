@@ -85,8 +85,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "quark:glimmering_weald": "2024-12-01 01:51:12 +0000",
       "minecraft:bamboo_jungle": "2024-12-01 00:43:32 +0000",
+      "minecraft:dark_forest": "2024-12-01 01:50:14 +0000",
       "minecraft:mangrove_swamp": "2024-12-01 00:46:15 +0000",
+      "minecraft:sparse_jungle": "2024-12-01 01:45:16 +0000",
       "minecraft:river": "2024-12-01 00:52:42 +0000",
       "minecraft:dripstone_caves": "2024-12-01 01:37:03 +0000",
       "minecraft:forest": "2024-12-01 00:54:24 +0000",
@@ -122,6 +125,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2024-12-01 01:50:22 +0000",
       "carrot": "2024-12-01 00:48:11 +0000"
     },
     "done": false
@@ -150,9 +154,57 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-01 01:19:26 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_wood": {
+    "criteria": {
+      "crafting": "2024-12-01 01:26:45 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/judgement_cut_just": {
+    "criteria": {
+      "customtrigger": "2024-12-01 01:29:27 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/rapid_slash": {
+    "criteria": {
+      "customtrigger": "2024-12-01 01:29:37 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/rising_star": {
+    "criteria": {
+      "customtrigger": "2024-12-01 01:29:43 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/quick_charge": {
+    "criteria": {
+      "customtrigger": "2024-12-01 01:29:43 +0000"
+    },
+    "done": true
+  },
   "slashblade:arts/aerial_cleave": {
     "criteria": {
       "customtrigger": "2024-12-01 01:29:44 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_a": {
+    "criteria": {
+      "customtrigger": "2024-12-01 01:29:51 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/kick_jump": {
+    "criteria": {
+      "customtrigger": "2024-12-01 01:29:58 +0000"
     },
     "done": true
   },
@@ -168,28 +220,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
+  "slashblade:abilities/trick_dodge": {
     "criteria": {
-      "minecraft:skeleton": "2024-12-01 01:36:16 +0000",
-      "minecraft:creeper": "2024-12-01 01:36:19 +0000"
-    },
-    "done": false
-  },
-  "slashblade:arts/judgement_cut_just": {
-    "criteria": {
-      "customtrigger": "2024-12-01 01:29:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:skeleton": "2024-12-01 01:36:16 +0000"
-    },
-    "done": true
-  },
-  "slashblade:abilities/kick_jump": {
-    "criteria": {
-      "customtrigger": "2024-12-01 01:29:58 +0000"
+      "customtrigger": "2024-12-01 01:30:38 +0000"
     },
     "done": true
   },
@@ -199,51 +232,47 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-01 01:36:16 +0000",
+      "minecraft:creeper": "2024-12-01 01:36:19 +0000",
+      "minecraft:zombie": "2024-12-01 01:47:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-01 01:36:16 +0000"
+    },
+    "done": true
+  },
   "slashblade:arts/aerial_b": {
     "criteria": {
       "customtrigger": "2024-12-01 01:38:39 +0000"
     },
     "done": true
   },
-  "slashblade:arts/aerial_a": {
+  "slashblade:arts/upperslash": {
     "criteria": {
-      "customtrigger": "2024-12-01 01:29:51 +0000"
+      "customtrigger": "2024-12-01 01:47:31 +0000"
     },
     "done": true
   },
-  "slashblade:arts/rising_star": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "customtrigger": "2024-12-01 01:29:43 +0000"
+      "deflected_projectile": "2024-12-01 01:49:10 +0000"
     },
     "done": true
   },
-  "slashblade:blade/s_wood": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "crafting": "2024-12-01 01:26:45 +0000"
+      "iron_pickaxe": "2024-12-01 01:53:39 +0000"
     },
     "done": true
   },
-  "slashblade:abilities/trick_dodge": {
+  "minecraft:story/mine_diamond": {
     "criteria": {
-      "customtrigger": "2024-12-01 01:30:38 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/quick_charge": {
-    "criteria": {
-      "customtrigger": "2024-12-01 01:29:43 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/rapid_slash": {
-    "criteria": {
-      "customtrigger": "2024-12-01 01:29:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2024-12-01 01:19:26 +0000"
+      "diamond": "2024-12-01 01:53:47 +0000"
     },
     "done": true
   },

@@ -62,8 +62,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "quark:glimmering_weald": "2024-12-01 01:49:17 +0000",
       "minecraft:dripstone_caves": "2024-12-01 01:26:57 +0000",
       "minecraft:desert": "2024-12-01 01:19:10 +0000",
+      "minecraft:savanna": "2024-12-01 01:45:18 +0000",
       "minecraft:plains": "2024-12-01 01:19:57 +0000"
     },
     "done": false
@@ -82,7 +84,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2024-12-01 01:27:17 +0000"
+      "bread": "2024-12-01 01:27:17 +0000",
+      "rotten_flesh": "2024-12-01 01:45:01 +0000"
     },
     "done": false
   },
