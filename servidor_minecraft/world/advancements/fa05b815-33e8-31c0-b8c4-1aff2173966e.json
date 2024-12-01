@@ -1,0 +1,106 @@
+{
+  "easypaxellite:netherite_paxel": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "slashblade:movesets": {
+    "criteria": {
+      "crafting": "2024-12-01 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "easypaxellite:diamond_paxel": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-01 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-12-01 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "easypaxellite:iron_paxel": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2024-12-01 01:21:11 +0000",
+      "minecraft:plains": "2024-12-01 01:21:21 +0000"
+    },
+    "done": false
+  },
+  "slashblade:material/proudsoul_tiny": {
+    "criteria": {
+      "BrokenBlade": "2024-12-01 01:21:31 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-01 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2024-12-01 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-01 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "easypaxellite:golden_paxel": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-12-01 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "easypaxellite:stone_paxel": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "slashblade:root": {
+    "criteria": {
+      "attackTheEntity": "2024-12-01 01:21:31 +0000"
+    },
+    "done": true
+  },
+  "easypaxellite:wooden_paxel": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

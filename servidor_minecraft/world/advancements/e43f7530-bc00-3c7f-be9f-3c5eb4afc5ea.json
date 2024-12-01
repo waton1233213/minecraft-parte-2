@@ -1,0 +1,159 @@
+{
+  "easypaxellite:netherite_paxel": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 00:41:09 +0000"
+    },
+    "done": true
+  },
+  "slashblade:movesets": {
+    "criteria": {
+      "crafting": "2024-12-01 00:41:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 00:41:09 +0000"
+    },
+    "done": true
+  },
+  "easypaxellite:diamond_paxel": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 00:41:09 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-01 00:41:09 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-12-01 00:41:09 +0000"
+    },
+    "done": true
+  },
+  "easypaxellite:iron_paxel": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 00:41:09 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-01 00:41:09 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2024-12-01 00:41:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-01 00:41:09 +0000"
+    },
+    "done": true
+  },
+  "easypaxellite:golden_paxel": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 00:41:09 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-12-01 00:41:09 +0000"
+    },
+    "done": true
+  },
+  "easypaxellite:stone_paxel": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 00:41:09 +0000"
+    },
+    "done": true
+  },
+  "easypaxellite:wooden_paxel": {
+    "criteria": {
+      "has_the_recipe": "2024-12-01 00:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:bamboo_jungle": "2024-12-01 00:43:32 +0000",
+      "minecraft:mangrove_swamp": "2024-12-01 00:46:15 +0000",
+      "minecraft:river": "2024-12-01 00:52:42 +0000",
+      "minecraft:forest": "2024-12-01 00:54:24 +0000",
+      "minecraft:desert": "2024-12-01 00:41:12 +0000",
+      "minecraft:jungle": "2024-12-01 00:52:10 +0000",
+      "minecraft:plains": "2024-12-01 00:52:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-01 00:43:14 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/root": {
+    "criteria": {
+      "obtain_crafting_table": "2024-12-01 00:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-01 00:43:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-01 00:43:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "carrot": "2024-12-01 00:48:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-01 00:48:11 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul_tiny": {
+    "criteria": {
+      "BrokenBlade": "2024-12-01 00:53:18 +0000"
+    },
+    "done": true
+  },
+  "slashblade:root": {
+    "criteria": {
+      "attackTheEntity": "2024-12-01 00:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-01 00:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-01 01:19:26 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
