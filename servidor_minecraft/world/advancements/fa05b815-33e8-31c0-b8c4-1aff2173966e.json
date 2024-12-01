@@ -125,7 +125,9 @@
     "criteria": {
       "cooked_beef": "2024-12-01 03:09:04 +0000",
       "apple": "2024-12-01 01:27:53 +0000",
-      "bread": "2024-12-01 01:31:34 +0000"
+      "bread": "2024-12-01 01:31:34 +0000",
+      "golden_carrot": "2024-12-01 19:37:01 +0000",
+      "carrot": "2024-12-01 19:31:00 +0000"
     },
     "done": false
   },
@@ -167,6 +169,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-01 19:43:36 +0000",
       "minecraft:skeleton": "2024-12-01 01:47:44 +0000",
       "minecraft:magma_cube": "2024-12-01 19:22:02 +0000",
       "minecraft:spider": "2024-12-01 01:43:24 +0000",
@@ -237,6 +240,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-01 19:41:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-12-01 19:27:34 +0000"
@@ -247,6 +256,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-01 19:24:01 +0000",
       "minecraft:nether_wastes": "2024-12-01 19:21:10 +0000",
+      "minecraft:soul_sand_valley": "2024-12-01 19:35:01 +0000",
       "minecraft:basalt_deltas": "2024-12-01 18:52:59 +0000"
     },
     "done": false
@@ -263,9 +273,21 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-01 19:40:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-01 18:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-01 19:42:45 +0000"
     },
     "done": true
   },

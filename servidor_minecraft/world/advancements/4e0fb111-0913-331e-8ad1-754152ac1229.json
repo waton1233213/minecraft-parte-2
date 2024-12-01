@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "slashblade:abilities/enemy_step": {
+    "criteria": {
+      "customtrigger": "2024-12-01 19:39:23 +0000"
+    },
+    "done": true
+  },
   "easypaxellite:netherite_paxel": {
     "criteria": {
       "has_the_recipe": "2024-12-01 18:52:38 +0000"
@@ -64,6 +70,12 @@
   "slashblade:arts/judgement_cut_just": {
     "criteria": {
       "customtrigger": "2024-12-01 19:24:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "deer": "2024-12-01 19:34:06 +0000"
     },
     "done": true
   },
@@ -109,6 +121,12 @@
     },
     "done": true
   },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-12-01 19:29:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:bamboo_jungle": "2024-12-01 18:54:17 +0000",
@@ -151,7 +169,17 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-01 19:03:45 +0000",
-      "mutton": "2024-12-01 18:59:23 +0000"
+      "mutton": "2024-12-01 18:59:23 +0000",
+      "bread": "2024-12-01 19:33:39 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_planks": "2024-12-01 19:34:37 +0000",
+      "twilight_oak_log": "2024-12-01 19:32:03 +0000",
+      "liveroot": "2024-12-01 19:35:36 +0000",
+      "twilight_oak_sapling": "2024-12-01 19:32:03 +0000"
     },
     "done": false
   },
@@ -185,6 +213,12 @@
     },
     "done": true
   },
+  "slashblade:arts/aerial_b": {
+    "criteria": {
+      "customtrigger": "2024-12-01 19:34:33 +0000"
+    },
+    "done": true
+  },
   "slashblade:arts/aerial_a": {
     "criteria": {
       "customtrigger": "2024-12-01 19:17:01 +0000"
@@ -194,6 +228,12 @@
   "mahoutsukai:root": {
     "criteria": {
       "mahoutsukai": "2024-12-01 18:59:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2024-12-01 19:31:30 +0000"
     },
     "done": true
   },
@@ -212,6 +252,12 @@
   "slashblade:arts/rising_star": {
     "criteria": {
       "customtrigger": "2024-12-01 19:24:17 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/air_trick": {
+    "criteria": {
+      "customtrigger": "2024-12-01 19:34:02 +0000"
     },
     "done": true
   },

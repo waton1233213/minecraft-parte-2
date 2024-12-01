@@ -18523,3 +18523,25 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Dec2024 19:34:02.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcohola has made the advancement [Abilities -Air Trick-            ]
 [01Dec2024 19:34:06.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcohola has made the advancement [The Silence of the Forest]
 [01Dec2024 19:34:06.789] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 2 ms
+[01Dec2024 19:34:33.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcohola has made the advancement [Blade Arts -Aerial Rave B-       ]
+[01Dec2024 19:34:49.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 19:34:50.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 19:34:55.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bobynas has completed the challenge [Hot Tourist Destinations]
+[01Dec2024 19:35:14.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saparaider_08 has made the advancement [The Silence of the Forest]
+[01Dec2024 19:35:49.203] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=33, y=50, z=-835} BlockPos{x=33, y=52, z=-838}
+[01Dec2024 19:35:49.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=33, y=50, z=-835} BlockPos{x=33, y=52, z=-838}
+[01Dec2024 19:35:49.305] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=33, y=50, z=-835} BlockPos{x=33, y=52, z=-838}
+[01Dec2024 19:35:49.353] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=33, y=50, z=-835} BlockPos{x=33, y=52, z=-838}
+[01Dec2024 19:36:24.447] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=37, y=49, z=-798} BlockPos{x=38, y=49, z=-795}
+[01Dec2024 19:39:03.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bobynas: Teleported Pancholo3567 to Bobynas]
+[01Dec2024 19:39:23.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcohola has made the advancement [Abilities -Enemy Step-           ]
+[01Dec2024 19:39:48.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 19:39:48.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 19:40:13.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bobynas has made the advancement [A Terrible Fortress]
+[01Dec2024 19:40:41.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bobynas: Teleported Pancholo3567 to Bobynas]
+[01Dec2024 19:40:43.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancholo3567 has made the advancement [A Terrible Fortress]
+[01Dec2024 19:41:24.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bobynas has made the advancement [Into Fire]
+[01Dec2024 19:41:59.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancholo3567 has made the advancement [Not Today, Thank You]
+[01Dec2024 19:42:45.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancholo3567 has made the advancement [Into Fire]
+[01Dec2024 19:44:48.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 19:44:48.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

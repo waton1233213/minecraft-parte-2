@@ -237,9 +237,30 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "kobold": "2024-12-01 19:35:14 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_umvuthana_raptor": {
     "criteria": {
       "umvuthana_raptor": "2024-12-01 18:56:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_planks": "2024-12-01 19:36:00 +0000",
+      "twilight_oak_log": "2024-12-01 19:32:03 +0000",
+      "liveroot": "2024-12-01 19:35:45 +0000",
+      "twilight_oak_sapling": "2024-12-01 19:32:04 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2024-12-01 19:31:21 +0000"
     },
     "done": true
   },
