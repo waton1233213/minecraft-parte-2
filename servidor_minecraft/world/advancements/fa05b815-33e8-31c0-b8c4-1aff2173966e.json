@@ -209,18 +209,18 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_rice": {
-    "criteria": {
-      "plant_rice": "2024-12-01 03:10:32 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "tomato": "2024-12-01 03:10:24 +0000",
       "rice": "2024-12-01 03:10:32 +0000"
     },
     "done": false
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2024-12-01 03:10:32 +0000"
+    },
+    "done": true
   },
   "create:copper": {
     "criteria": {
