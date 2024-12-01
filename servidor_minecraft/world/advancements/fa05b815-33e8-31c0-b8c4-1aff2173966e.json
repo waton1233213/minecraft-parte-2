@@ -185,5 +185,11 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-01 01:56:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

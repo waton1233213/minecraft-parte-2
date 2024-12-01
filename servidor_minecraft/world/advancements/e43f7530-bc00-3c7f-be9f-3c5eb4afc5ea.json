@@ -86,6 +86,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "quark:glimmering_weald": "2024-12-01 01:51:12 +0000",
+      "minecraft:birch_forest": "2024-12-01 01:58:31 +0000",
       "minecraft:bamboo_jungle": "2024-12-01 00:43:32 +0000",
       "minecraft:dark_forest": "2024-12-01 01:50:14 +0000",
       "minecraft:mangrove_swamp": "2024-12-01 00:46:15 +0000",
@@ -95,6 +96,7 @@
       "minecraft:forest": "2024-12-01 00:54:24 +0000",
       "minecraft:desert": "2024-12-01 00:41:12 +0000",
       "minecraft:jungle": "2024-12-01 00:52:10 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-01 01:58:40 +0000",
       "minecraft:plains": "2024-12-01 00:52:50 +0000"
     },
     "done": false
@@ -126,6 +128,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2024-12-01 01:50:22 +0000",
+      "bread": "2024-12-01 01:55:35 +0000",
       "carrot": "2024-12-01 00:48:11 +0000"
     },
     "done": false
