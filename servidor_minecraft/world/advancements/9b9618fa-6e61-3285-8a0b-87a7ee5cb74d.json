@@ -217,5 +217,11 @@
     },
     "done": true
   },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-12-01 03:18:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
