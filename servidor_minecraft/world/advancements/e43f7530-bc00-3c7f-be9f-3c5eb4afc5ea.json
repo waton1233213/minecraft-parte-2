@@ -310,5 +310,17 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-01 03:06:59 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-01 03:06:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -123,6 +123,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-01 03:09:04 +0000",
       "apple": "2024-12-01 01:27:53 +0000",
       "bread": "2024-12-01 01:31:34 +0000"
     },
@@ -207,6 +208,19 @@
       "slept_in_bed": "2024-12-01 02:25:58 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2024-12-01 03:10:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "tomato": "2024-12-01 03:10:24 +0000",
+      "rice": "2024-12-01 03:10:32 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
