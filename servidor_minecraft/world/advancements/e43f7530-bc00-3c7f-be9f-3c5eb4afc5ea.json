@@ -149,6 +149,78 @@
     },
     "done": true
   },
+  "slashblade:arts/aerial_cleave": {
+    "criteria": {
+      "customtrigger": "2024-12-01 01:29:44 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_a": {
+    "criteria": {
+      "customtrigger": "2024-12-01 01:30:15 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_c": {
+    "criteria": {
+      "customtrigger": "2024-12-01 01:30:27 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/judgement_cut_just": {
+    "criteria": {
+      "customtrigger": "2024-12-01 01:29:27 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/kick_jump": {
+    "criteria": {
+      "customtrigger": "2024-12-01 01:29:58 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul": {
+    "criteria": {
+      "BrokenBlade": "2024-12-01 01:30:51 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_a": {
+    "criteria": {
+      "customtrigger": "2024-12-01 01:29:51 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/rising_star": {
+    "criteria": {
+      "customtrigger": "2024-12-01 01:29:43 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_wood": {
+    "criteria": {
+      "crafting": "2024-12-01 01:26:45 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/trick_dodge": {
+    "criteria": {
+      "customtrigger": "2024-12-01 01:30:38 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/quick_charge": {
+    "criteria": {
+      "customtrigger": "2024-12-01 01:29:43 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/rapid_slash": {
+    "criteria": {
+      "customtrigger": "2024-12-01 01:29:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-01 01:19:26 +0000"

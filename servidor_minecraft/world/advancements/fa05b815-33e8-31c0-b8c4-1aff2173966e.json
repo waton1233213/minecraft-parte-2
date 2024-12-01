@@ -43,6 +43,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:dripstone_caves": "2024-12-01 01:33:21 +0000",
       "minecraft:desert": "2024-12-01 01:21:11 +0000",
       "minecraft:plains": "2024-12-01 01:21:21 +0000"
     },
@@ -60,9 +61,28 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2024-12-01 01:27:53 +0000",
+      "bread": "2024-12-01 01:31:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-01 01:30:39 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:root": {
     "criteria": {
       "ars_nouveau:worn_notebook": "2024-12-01 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-01 01:27:53 +0000"
     },
     "done": true
   },
@@ -84,6 +104,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-01 01:30:57 +0000"
+    },
+    "done": true
+  },
   "easypaxellite:stone_paxel": {
     "criteria": {
       "has_the_recipe": "2024-12-01 01:21:08 +0000"
@@ -93,6 +119,18 @@
   "slashblade:root": {
     "criteria": {
       "attackTheEntity": "2024-12-01 01:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-01 01:24:43 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/root": {
+    "criteria": {
+      "obtain_crafting_table": "2024-12-01 01:24:43 +0000"
     },
     "done": true
   },
