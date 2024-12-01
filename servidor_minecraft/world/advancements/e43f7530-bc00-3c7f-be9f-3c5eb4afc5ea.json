@@ -261,12 +261,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-12-01 02:26:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-01 01:49:10 +0000"
@@ -279,15 +273,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-01 01:53:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-12-01 02:24:27 +0000"
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "diamond": "2024-12-01 01:53:47 +0000"
+      "slept_in_bed": "2024-12-01 02:26:17 +0000"
     },
     "done": true
   },

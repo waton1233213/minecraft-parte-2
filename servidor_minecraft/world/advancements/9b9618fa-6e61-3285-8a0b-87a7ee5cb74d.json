@@ -88,6 +88,7 @@
       "quark:glimmering_weald": "2024-12-01 01:49:17 +0000",
       "minecraft:river": "2024-12-01 02:27:05 +0000",
       "minecraft:dripstone_caves": "2024-12-01 01:26:57 +0000",
+      "minecraft:forest": "2024-12-01 02:34:26 +0000",
       "minecraft:desert": "2024-12-01 01:19:10 +0000",
       "minecraft:savanna": "2024-12-01 01:45:18 +0000",
       "minecraft:plains": "2024-12-01 01:19:57 +0000"
@@ -169,6 +170,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-01 02:23:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-01 02:24:13 +0000"
@@ -181,21 +188,21 @@
     },
     "done": true
   },
-  "largemeals:main/get_mutton_rack": {
-    "criteria": {
-      "raw_mutton_rack": "2024-12-01 02:30:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-01 02:26:34 +0000"
     },
     "done": true
   },
-  "minecraft:story/smelt_iron": {
+  "largemeals:main/get_mutton_rack": {
     "criteria": {
-      "iron": "2024-12-01 02:23:24 +0000"
+      "raw_mutton_rack": "2024-12-01 02:30:37 +0000"
+    },
+    "done": true
+  },
+  "quark:crawl_in_hollow_log": {
+    "criteria": {
+      "crawl_in_hollow_log": "2024-12-01 02:34:36 +0000"
     },
     "done": true
   },
