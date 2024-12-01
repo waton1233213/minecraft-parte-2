@@ -181,6 +181,12 @@
     },
     "done": true
   },
+  "largemeals:main/get_mutton_rack": {
+    "criteria": {
+      "raw_mutton_rack": "2024-12-01 02:30:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-01 02:26:34 +0000"
