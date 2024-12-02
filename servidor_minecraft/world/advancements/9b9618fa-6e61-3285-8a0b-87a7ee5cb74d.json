@@ -392,6 +392,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "potato": "2024-12-02 03:58:03 +0000",
       "wheat": "2024-12-02 02:09:01 +0000",
       "carrot": "2024-12-02 03:44:46 +0000"
     },
@@ -400,6 +401,12 @@
   "slashblade:material/proudsoul_ingot": {
     "criteria": {
       "BrokenBlade": "2024-12-02 02:52:13 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-12-02 03:47:31 +0000"
     },
     "done": true
   },

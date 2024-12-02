@@ -481,13 +481,44 @@
   },
   "create:wrench_goggles": {
     "criteria": {
-      "0": "2024-12-02 03:19:10 +0000"
+      "0": "2024-12-02 03:19:10 +0000",
+      "1": "2024-12-02 03:54:15 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2024-12-02 03:58:18 +0000"
+    },
+    "done": true
   },
   "create:mechanical_press": {
     "criteria": {
       "0": "2024-12-02 03:13:48 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2024-12-02 03:59:58 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2024-12-02 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-02 03:50:32 +0000"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2024-12-02 03:50:09 +0000"
     },
     "done": true
   },
@@ -500,6 +531,12 @@
   "create:water_wheel": {
     "criteria": {
       "0": "2024-12-02 03:21:53 +0000"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2024-12-02 03:51:29 +0000"
     },
     "done": true
   },
