@@ -4,5 +4,11 @@
     "name": "Bobynas",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "4e0fb111-0913-331e-8ad1-754152ac1229",
+    "name": "Arcohola",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
