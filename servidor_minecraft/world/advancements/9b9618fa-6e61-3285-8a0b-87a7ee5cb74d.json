@@ -118,6 +118,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-02 02:53:48 +0000",
       "apple": "2024-12-02 02:32:31 +0000",
       "potato": "2024-12-02 02:36:39 +0000",
       "bread": "2024-12-01 01:27:17 +0000",
@@ -136,6 +137,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-01 02:16:42 +0000",
       "minecraft:spider": "2024-12-01 01:28:07 +0000",
+      "minecraft:creeper": "2024-12-02 02:50:06 +0000",
       "quark:forgotten": "2024-12-01 03:17:59 +0000",
       "minecraft:witch": "2024-12-01 03:31:23 +0000",
       "minecraft:cave_spider": "2024-12-01 03:16:06 +0000",
@@ -327,6 +329,18 @@
     },
     "done": true
   },
+  "slashblade:arts/combo_c": {
+    "criteria": {
+      "customtrigger": "2024-12-02 02:49:44 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-12-02 02:48:32 +0000"
+    },
+    "done": true
+  },
   "slashblade:enchantment/root": {
     "criteria": {
       "customtrigger": "2024-12-02 02:27:43 +0000"
@@ -339,11 +353,47 @@
     },
     "done": true
   },
+  "slashblade:arts/judgement_cut": {
+    "criteria": {
+      "customtrigger": "2024-12-02 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_a_ex": {
+    "criteria": {
+      "customtrigger": "2024-12-02 02:49:41 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul": {
+    "criteria": {
+      "BrokenBlade": "2024-12-02 02:50:30 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_wood": {
+    "criteria": {
+      "crafting": "2024-12-02 02:51:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "wheat": "2024-12-02 02:09:01 +0000"
     },
     "done": false
+  },
+  "slashblade:material/proudsoul_ingot": {
+    "criteria": {
+      "BrokenBlade": "2024-12-02 02:52:13 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/quick_charge": {
+    "criteria": {
+      "customtrigger": "2024-12-02 02:49:55 +0000"
+    },
+    "done": true
   },
   "slashblade:enchantment/feather_falling": {
     "criteria": {
