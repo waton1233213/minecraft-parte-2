@@ -330,6 +330,18 @@
     },
     "done": true
   },
+  "slashblade:arts/combo_a": {
+    "criteria": {
+      "customtrigger": "2024-12-02 04:08:27 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_b": {
+    "criteria": {
+      "customtrigger": "2024-12-02 04:11:13 +0000"
+    },
+    "done": true
+  },
   "slashblade:arts/combo_c": {
     "criteria": {
       "customtrigger": "2024-12-02 02:49:44 +0000"
@@ -419,6 +431,12 @@
   "slashblade:enchantment/feather_falling": {
     "criteria": {
       "customtrigger": "2024-12-02 02:27:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hill2": {
+    "criteria": {
+      "redcap": "2024-12-02 04:11:44 +0000"
     },
     "done": true
   },
