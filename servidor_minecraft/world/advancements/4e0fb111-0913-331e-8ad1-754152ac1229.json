@@ -431,9 +431,27 @@
     },
     "done": true
   },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2024-12-02 03:17:29 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-12-02 03:17:06 +0000"
+    },
+    "done": true
+  },
   "create:water_wheel": {
     "criteria": {
       "0": "2024-12-02 03:06:15 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2024-12-02 03:14:35 +0000"
     },
     "done": true
   },
