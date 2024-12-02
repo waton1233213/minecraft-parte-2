@@ -182,6 +182,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-01 19:10:53 +0000",
+      "minecraft:magma_cube": "2024-12-02 03:44:13 +0000",
       "minecraft:spider": "2024-12-01 19:24:18 +0000",
       "minecraft:phantom": "2024-12-01 20:57:35 +0000",
       "minecraft:enderman": "2024-12-01 20:04:57 +0000",
@@ -437,6 +438,18 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-02 03:38:45 +0000"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2024-12-02 03:30:07 +0000"
+    },
+    "done": true
+  },
   "create:andesite_alloy": {
     "criteria": {
       "0": "2024-12-02 03:17:06 +0000"
@@ -449,9 +462,33 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2024-12-02 03:43:15 +0000"
+    },
+    "done": false
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2024-12-02 03:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-02 03:43:14 +0000"
+    },
+    "done": true
+  },
   "create:shifting_gears": {
     "criteria": {
       "0": "2024-12-02 03:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-02 03:43:14 +0000"
     },
     "done": true
   },

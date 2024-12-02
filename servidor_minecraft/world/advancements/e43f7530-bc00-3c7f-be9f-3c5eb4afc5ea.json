@@ -129,10 +129,12 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-01 20:40:15 +0000",
+      "cooked_mutton": "2024-12-02 03:30:42 +0000",
       "cooked_beef": "2024-12-02 02:05:55 +0000",
       "beef": "2024-12-02 02:55:47 +0000",
       "porkchop": "2024-12-02 02:36:18 +0000",
       "apple": "2024-12-01 01:50:22 +0000",
+      "mutton": "2024-12-02 03:21:16 +0000",
       "bread": "2024-12-01 01:55:35 +0000",
       "melon_slice": "2024-12-02 02:03:49 +0000",
       "golden_carrot": "2024-12-01 19:35:42 +0000",
@@ -477,6 +479,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-02 03:19:10 +0000"
+    },
+    "done": false
+  },
   "create:mechanical_press": {
     "criteria": {
       "0": "2024-12-02 03:13:48 +0000"
@@ -486,6 +494,12 @@
   "create:andesite_alloy": {
     "criteria": {
       "0": "2024-12-02 03:12:07 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2024-12-02 03:21:53 +0000"
     },
     "done": true
   },
@@ -500,9 +514,21 @@
     },
     "done": false
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2024-12-02 03:42:32 +0000"
+    },
+    "done": true
+  },
   "create:andesite_casing": {
     "criteria": {
       "0": "2024-12-02 03:12:07 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2024-12-02 03:25:34 +0000"
     },
     "done": true
   },

@@ -306,5 +306,11 @@
     },
     "done": false
   },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "cooked_venison": "2024-12-02 03:36:35 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
