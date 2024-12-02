@@ -477,6 +477,9 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_planks": "2024-12-02 02:28:35 +0000",
+      "twilight_oak_door": "2024-12-02 02:35:47 +0000",
+      "twilight_oak_stairs": "2024-12-02 02:35:44 +0000",
       "twilight_oak_log": "2024-12-02 02:04:04 +0000",
       "twilight_oak_wood": "2024-12-02 02:04:14 +0000",
       "twilight_oak_sapling": "2024-12-02 02:04:16 +0000"
