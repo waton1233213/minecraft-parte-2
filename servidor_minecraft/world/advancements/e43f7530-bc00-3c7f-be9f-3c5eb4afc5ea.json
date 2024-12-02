@@ -129,8 +129,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-01 20:40:15 +0000",
+      "cooked_beef": "2024-12-02 02:05:55 +0000",
       "apple": "2024-12-01 01:50:22 +0000",
       "bread": "2024-12-01 01:55:35 +0000",
+      "melon_slice": "2024-12-02 02:03:49 +0000",
       "golden_carrot": "2024-12-01 19:35:42 +0000",
       "carrot": "2024-12-01 00:48:11 +0000"
     },
@@ -472,6 +474,14 @@
       "customtrigger": "2024-12-01 20:46:28 +0000"
     },
     "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_log": "2024-12-02 02:04:04 +0000",
+      "twilight_oak_wood": "2024-12-02 02:04:14 +0000",
+      "twilight_oak_sapling": "2024-12-02 02:04:16 +0000"
+    },
+    "done": false
   },
   "create:copper": {
     "criteria": {

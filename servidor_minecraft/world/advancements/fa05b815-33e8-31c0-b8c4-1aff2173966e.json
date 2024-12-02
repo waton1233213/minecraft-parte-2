@@ -297,5 +297,13 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_log": "2024-12-02 02:04:03 +0000",
+      "twilight_oak_wood": "2024-12-02 02:04:06 +0000",
+      "twilight_oak_sapling": "2024-12-02 02:05:09 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

@@ -271,45 +271,9 @@
     },
     "done": true
   },
-  "slashblade:abilities/enemy_step": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "customtrigger": "2024-12-01 20:35:43 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/judgement_cut_just": {
-    "criteria": {
-      "customtrigger": "2024-12-01 20:36:32 +0000"
-    },
-    "done": true
-  },
-  "slashblade:abilities/kick_jump": {
-    "criteria": {
-      "customtrigger": "2024-12-01 20:35:41 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/aerial_b": {
-    "criteria": {
-      "customtrigger": "2024-12-01 20:35:56 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/aerial_a": {
-    "criteria": {
-      "customtrigger": "2024-12-01 20:36:55 +0000"
-    },
-    "done": true
-  },
-  "slashblade:abilities/trick_dodge": {
-    "criteria": {
-      "customtrigger": "2024-12-01 20:36:17 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/rapid_slash": {
-    "criteria": {
-      "customtrigger": "2024-12-01 20:37:25 +0000"
+      "obsidian": "2024-12-01 20:26:56 +0000"
     },
     "done": true
   },
@@ -319,11 +283,59 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "slashblade:abilities/kick_jump": {
     "criteria": {
-      "obsidian": "2024-12-01 20:26:56 +0000"
+      "customtrigger": "2024-12-01 20:35:41 +0000"
     },
     "done": true
+  },
+  "slashblade:abilities/enemy_step": {
+    "criteria": {
+      "customtrigger": "2024-12-01 20:35:43 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_b": {
+    "criteria": {
+      "customtrigger": "2024-12-01 20:35:56 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/trick_dodge": {
+    "criteria": {
+      "customtrigger": "2024-12-01 20:36:17 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/judgement_cut_just": {
+    "criteria": {
+      "customtrigger": "2024-12-01 20:36:32 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_a": {
+    "criteria": {
+      "customtrigger": "2024-12-01 20:36:55 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/rapid_slash": {
+    "criteria": {
+      "customtrigger": "2024-12-01 20:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-02 02:09:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2024-12-02 02:09:01 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
