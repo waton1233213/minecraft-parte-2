@@ -312,6 +312,7 @@
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2024-12-01 19:34:37 +0000",
+      "stripped_twilight_oak_log": "2024-12-02 03:01:13 +0000",
       "twilight_oak_door": "2024-12-02 02:15:35 +0000",
       "twilight_oak_stairs": "2024-12-02 02:34:27 +0000",
       "twilight_oak_chest": "2024-12-01 20:48:18 +0000",
@@ -427,6 +428,12 @@
   "slashblade:arts/combo_b": {
     "criteria": {
       "customtrigger": "2024-12-01 20:55:40 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2024-12-02 03:06:15 +0000"
     },
     "done": true
   },

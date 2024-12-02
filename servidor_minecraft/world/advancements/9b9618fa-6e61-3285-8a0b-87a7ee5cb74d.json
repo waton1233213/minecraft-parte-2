@@ -263,6 +263,7 @@
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2024-12-01 19:36:00 +0000",
+      "stripped_twilight_oak_log": "2024-12-02 03:01:17 +0000",
       "twilight_oak_log": "2024-12-01 19:32:03 +0000",
       "liveroot": "2024-12-01 19:35:45 +0000",
       "twilight_oak_sapling": "2024-12-01 19:32:04 +0000"
@@ -359,6 +360,12 @@
     },
     "done": true
   },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-12-02 03:01:03 +0000"
+    },
+    "done": true
+  },
   "slashblade:arts/combo_a_ex": {
     "criteria": {
       "customtrigger": "2024-12-02 02:49:41 +0000"
@@ -368,6 +375,12 @@
   "slashblade:material/proudsoul": {
     "criteria": {
       "BrokenBlade": "2024-12-02 02:50:30 +0000"
+    },
+    "done": true
+  },
+  "slashblade:tips/refine": {
+    "criteria": {
+      "customtrigger": "2024-12-02 02:59:29 +0000"
     },
     "done": true
   },
