@@ -331,6 +331,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2024-12-03 02:59:25 +0000",
       "in_better_spider_dungeon": "2024-12-01 03:06:59 +0000"
     },
     "done": false
@@ -620,6 +621,12 @@
       "kelp": "2024-12-03 02:10:26 +0000"
     },
     "done": false
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-03 02:59:25 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
