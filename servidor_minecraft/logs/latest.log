@@ -1590,3 +1590,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Dec2024 01:09:49.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
 [03Dec2024 01:10:15.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bobynas: Teleported Pancholo3567 to Bobynas]
 [03Dec2024 01:10:24.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2350ms or 47 ticks behind
+[03Dec2024 01:22:10.882] [Server thread/INFO] [do_a_barrel_roll/]: Client of Bobynas accepted server config.
+[03Dec2024 01:22:13.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind

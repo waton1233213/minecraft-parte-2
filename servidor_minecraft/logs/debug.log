@@ -16042,3 +16042,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Dec2024 01:11:30.105] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming cofh/thermal/core/common/inventory/TinkerBenchMenu$2 (target of net/minecraft/world/inventory/Slot)
 [03Dec2024 01:11:30.105] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming cofh/thermal/core/common/inventory/TinkerBenchMenu$3 (target of net/minecraft/world/inventory/Slot)
 [03Dec2024 01:11:33.900] [Server thread/DEBUG] [mixin/]: Mixing ContainerLevelAccessMixin from railways.mixins.json into net.minecraft.world.inventory.ContainerLevelAccess
+[03Dec2024 01:12:09.750] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/inventory/StonecutterMenu$1 (target of net/minecraft/world/Container)
+[03Dec2024 01:14:03.913] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/wrapper/PlayerInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[03Dec2024 01:14:03.918] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/wrapper/RangedWrapper (target of net/minecraftforge/items/IItemHandler)
+[03Dec2024 01:14:03.920] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/wrapper/PlayerArmorInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[03Dec2024 01:14:03.920] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/wrapper/PlayerOffhandInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[03Dec2024 01:14:30.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 01:14:30.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 01:19:30.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 01:19:30.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 01:22:09.718] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-7188, y=5, z=8244}
+[03Dec2024 01:22:10.882] [Server thread/INFO] [do_a_barrel_roll/]: Client of Bobynas accepted server config.
+[03Dec2024 01:22:13.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
