@@ -88,10 +88,12 @@
       "quark:glimmering_weald": "2024-12-01 01:51:12 +0000",
       "minecraft:birch_forest": "2024-12-01 01:58:31 +0000",
       "minecraft:bamboo_jungle": "2024-12-01 00:43:32 +0000",
+      "minecraft:beach": "2024-12-03 02:07:46 +0000",
       "minecraft:dark_forest": "2024-12-01 01:50:14 +0000",
       "minecraft:mangrove_swamp": "2024-12-01 00:46:15 +0000",
       "minecraft:sparse_jungle": "2024-12-01 01:45:16 +0000",
       "minecraft:river": "2024-12-01 00:52:42 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-03 02:07:58 +0000",
       "minecraft:dripstone_caves": "2024-12-01 01:37:03 +0000",
       "minecraft:forest": "2024-12-01 00:54:24 +0000",
       "minecraft:desert": "2024-12-01 00:41:12 +0000",
@@ -611,6 +613,12 @@
       "0": "2024-12-03 01:54:30 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "kelp": "2024-12-03 02:10:26 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
