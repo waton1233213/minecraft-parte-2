@@ -600,5 +600,11 @@
     },
     "done": true
   },
+  "create:windmill": {
+    "criteria": {
+      "0": "2024-12-03 01:46:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
