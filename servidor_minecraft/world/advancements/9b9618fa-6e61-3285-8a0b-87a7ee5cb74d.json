@@ -574,5 +574,17 @@
     },
     "done": false
   },
+  "slashblade:arts/shooting/spiral_swords": {
+    "criteria": {
+      "customtrigger": "2024-12-04 23:22:39 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/shooting/summonedswords": {
+    "criteria": {
+      "customtrigger": "2024-12-04 23:22:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
