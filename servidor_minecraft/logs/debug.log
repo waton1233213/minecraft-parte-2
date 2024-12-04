@@ -21881,3 +21881,48 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Dec2024 04:41:49.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Dec2024 04:41:49.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Dec2024 04:42:32.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 04:46:43.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancholo3567> bro thinks he is batman
+[04Dec2024 04:46:48.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancholo3567> :v
+[04Dec2024 04:46:49.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 04:46:49.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 04:51:23.155] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-7188, y=5, z=8244}
+[04Dec2024 04:51:24.254] [Server thread/INFO] [do_a_barrel_roll/]: Client of Arcohola accepted server config.
+[04Dec2024 04:51:28.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[04Dec2024 04:51:51.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 04:51:51.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 04:54:20.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 04:54:21.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 04:55:23.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 04:56:20.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 04:56:28.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcohola has made the advancement [What Was That Noise?]
+[04Dec2024 04:56:36.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 04:56:42.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 04:56:48.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 04:56:51.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 04:56:51.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 04:56:51.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 04:56:53.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 04:56:53.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 04:57:00.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 04:57:07.473] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/inventory/EnchantmentMenu$1 (target of net/minecraft/world/Container)
+[04Dec2024 04:57:33.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 04:57:34.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 04:58:26.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 04:58:28.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 04:59:42.765] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-886, y=62, z=968}
+[04Dec2024 04:59:44.897] [Server thread/INFO] [do_a_barrel_roll/]: Client of Arcohola accepted server config.
+[04Dec2024 04:59:44.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2183ms or 43 ticks behind
+[04Dec2024 04:59:57.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola lost connection: Disconnected
+[04Dec2024 04:59:57.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcohola left the game
+[04Dec2024 05:00:28.866] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/tiviacz/travelersbackpack/inventory/sorter/ContainerSorter$CustomWrapper (target of net/minecraftforge/items/IItemHandler)
+[04Dec2024 05:01:53.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 05:01:53.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 05:02:14.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancholo3567 has made the advancement [Anonymity -Nameless-]
+[04Dec2024 05:02:24.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancholo3567 has made the advancement [Blade Arts -Combo A-              ]
+[04Dec2024 05:02:26.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancholo3567 has made the advancement [Blade Arts -Quick Charge-         ]
+[04Dec2024 05:02:26.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancholo3567 has made the advancement [Blade Arts -Judgement Cut EX-     ]
+[04Dec2024 05:02:36.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancholo3567 has made the advancement [Abilities -Trick Dodge-          ]
+[04Dec2024 05:02:43.995] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: saparaider_08 lost connection: Disconnected
+[04Dec2024 05:02:43.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saparaider_08 left the game
+[04Dec2024 05:03:30.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancholo3567 lost connection: Disconnected
+[04Dec2024 05:03:30.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancholo3567 left the game

@@ -321,6 +321,12 @@
     },
     "done": false
   },
+  "slashblade:arts/combo_a": {
+    "criteria": {
+      "customtrigger": "2024-12-04 05:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2024-12-04 02:57:43 +0000"
@@ -339,6 +345,12 @@
     },
     "done": true
   },
+  "slashblade:arts/judgement_cut_just": {
+    "criteria": {
+      "customtrigger": "2024-12-04 05:02:26 +0000"
+    },
+    "done": true
+  },
   "quark:get_forgotten_hat": {
     "criteria": {
       "get_forgotten_hat": "2024-12-04 01:53:08 +0000"
@@ -351,9 +363,27 @@
     },
     "done": true
   },
+  "slashblade:abilities/trick_dodge": {
+    "criteria": {
+      "customtrigger": "2024-12-04 05:02:36 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/quick_charge": {
+    "criteria": {
+      "customtrigger": "2024-12-04 05:02:26 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2024-12-04 01:46:40 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_nameless": {
+    "criteria": {
+      "crafting": "2024-12-04 05:02:14 +0000"
     },
     "done": true
   },

@@ -507,6 +507,12 @@
     },
     "done": false
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-04 04:43:09 +0000"
+    },
+    "done": false
+  },
   "slashblade:blade/s_iron": {
     "criteria": {
       "crafting": "2024-12-04 03:35:04 +0000"
@@ -552,6 +558,12 @@
   "slashblade:material/proudsoul_sphere": {
     "criteria": {
       "BrokenBlade": "2024-12-04 04:08:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hill2": {
+    "criteria": {
+      "redcap": "2024-12-04 04:56:28 +0000"
     },
     "done": true
   },
