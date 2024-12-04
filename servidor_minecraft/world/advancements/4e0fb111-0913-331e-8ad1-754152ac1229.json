@@ -531,6 +531,12 @@
     },
     "done": true
   },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-12-04 04:39:06 +0000"
+    },
+    "done": true
+  },
   "slashblade:material/proudsoul_crystal": {
     "criteria": {
       "BrokenBlade": "2024-12-04 04:08:16 +0000"
