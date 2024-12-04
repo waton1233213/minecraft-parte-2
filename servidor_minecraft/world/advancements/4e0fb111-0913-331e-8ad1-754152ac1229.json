@@ -137,6 +137,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-04 04:17:48 +0000",
       "cooked_mutton": "2024-12-04 02:51:02 +0000",
       "cooked_beef": "2024-12-01 19:03:45 +0000",
       "mutton": "2024-12-01 18:59:23 +0000",
@@ -514,6 +515,12 @@
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2024-12-04 03:22:15 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/ex/ruby": {
+    "criteria": {
+      "crafting": "2024-12-04 04:17:39 +0000"
     },
     "done": true
   },

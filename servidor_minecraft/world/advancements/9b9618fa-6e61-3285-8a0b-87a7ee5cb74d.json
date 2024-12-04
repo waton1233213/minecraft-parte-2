@@ -453,7 +453,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2024-12-03 02:33:02 +0000"
+      "in_better_zombie_dungeon": "2024-12-03 02:33:02 +0000",
+      "in_better_spider_dungeon": "2024-12-04 04:12:24 +0000"
     },
     "done": false
   },
@@ -552,6 +553,12 @@
   "slashblade:blade/s_iron": {
     "criteria": {
       "crafting": "2024-12-04 03:33:18 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-04 04:12:24 +0000"
     },
     "done": true
   },
