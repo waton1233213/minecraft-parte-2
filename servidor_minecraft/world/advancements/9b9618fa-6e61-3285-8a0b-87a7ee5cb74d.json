@@ -489,6 +489,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-04 02:36:44 +0000"
+    },
+    "done": true
+  },
   "slashblade:arts/combo_b_max": {
     "criteria": {
       "customtrigger": "2024-12-04 01:49:28 +0000"
