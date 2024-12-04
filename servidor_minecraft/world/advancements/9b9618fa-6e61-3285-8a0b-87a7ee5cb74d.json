@@ -556,15 +556,15 @@
     },
     "done": true
   },
-  "slashblade:blade/ex/tukumo": {
-    "criteria": {
-      "crafting": "2024-12-04 04:36:28 +0000"
-    },
-    "done": true
-  },
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2024-12-04 04:12:24 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/ex/tukumo": {
+    "criteria": {
+      "crafting": "2024-12-04 04:36:28 +0000"
     },
     "done": true
   },
