@@ -350,5 +350,11 @@
     },
     "done": true
   },
+  "ars_nouveau:poof_mob": {
+    "criteria": {
+      "poof_mob": "2024-12-04 03:57:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
