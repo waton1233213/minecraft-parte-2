@@ -507,45 +507,9 @@
     },
     "done": false
   },
-  "create:wrench_goggles": {
-    "criteria": {
-      "0": "2024-12-04 04:43:09 +0000"
-    },
-    "done": false
-  },
-  "slashblade:blade/s_iron": {
-    "criteria": {
-      "crafting": "2024-12-04 03:35:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/return_to_sender": {
-    "criteria": {
-      "killed_ghast": "2024-12-04 03:22:15 +0000"
-    },
-    "done": true
-  },
-  "slashblade:blade/ex/ruby": {
-    "criteria": {
-      "crafting": "2024-12-04 04:17:39 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:imbuement_chamber": {
     "criteria": {
       "has_imbuement_chamber": "2024-12-04 01:22:18 +0000"
-    },
-    "done": true
-  },
-  "create:andesite_casing": {
-    "criteria": {
-      "0": "2024-12-04 04:39:06 +0000"
-    },
-    "done": true
-  },
-  "slashblade:material/proudsoul_crystal": {
-    "criteria": {
-      "BrokenBlade": "2024-12-04 04:08:16 +0000"
     },
     "done": true
   },
@@ -555,17 +519,59 @@
     },
     "done": false
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-12-04 03:22:15 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_iron": {
+    "criteria": {
+      "crafting": "2024-12-04 03:35:04 +0000"
+    },
+    "done": true
+  },
   "slashblade:material/proudsoul_sphere": {
     "criteria": {
       "BrokenBlade": "2024-12-04 04:08:04 +0000"
     },
     "done": true
   },
+  "slashblade:material/proudsoul_crystal": {
+    "criteria": {
+      "BrokenBlade": "2024-12-04 04:08:16 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/ex/ruby": {
+    "criteria": {
+      "crafting": "2024-12-04 04:17:39 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-12-04 04:39:06 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-04 04:43:09 +0000"
+    },
+    "done": false
+  },
   "twilightforest:hill2": {
     "criteria": {
       "redcap": "2024-12-04 04:56:28 +0000"
     },
     "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "cooked_venison": "2024-12-04 22:57:20 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
