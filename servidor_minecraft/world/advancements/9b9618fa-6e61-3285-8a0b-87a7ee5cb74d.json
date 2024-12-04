@@ -495,9 +495,27 @@
     },
     "done": true
   },
+  "slashblade:tips/reforge": {
+    "criteria": {
+      "customtrigger": "2024-12-04 02:48:33 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul_sphere": {
+    "criteria": {
+      "BrokenBlade": "2024-12-04 02:50:49 +0000"
+    },
+    "done": true
+  },
   "slashblade:arts/combo_b_max": {
     "criteria": {
       "customtrigger": "2024-12-04 01:49:28 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_white": {
+    "criteria": {
+      "crafting": "2024-12-04 02:48:34 +0000"
     },
     "done": true
   },
