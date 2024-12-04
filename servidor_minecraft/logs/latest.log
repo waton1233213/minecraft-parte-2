@@ -1758,3 +1758,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Dec2024 03:10:25.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saparaider_08 has made the advancement [We Need to Go Deeper]
 [04Dec2024 03:10:25.651] [Server thread/INFO] [do_a_barrel_roll/]: Client of saparaider_08 accepted server config.
 [04Dec2024 03:10:26.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[04Dec2024 03:13:16.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: saparaider_08 moved wrongly!
+[04Dec2024 03:19:33.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 03:19:42.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 03:19:43.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 03:19:45.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancholo3567 has completed the challenge [Hot Tourist Destinations]
+[04Dec2024 03:22:15.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcohola has completed the challenge [Return to Sender]

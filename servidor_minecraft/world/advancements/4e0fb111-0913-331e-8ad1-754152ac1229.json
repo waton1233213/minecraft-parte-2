@@ -189,6 +189,7 @@
       "minecraft:spider": "2024-12-01 19:24:18 +0000",
       "minecraft:creeper": "2024-12-04 01:20:45 +0000",
       "minecraft:phantom": "2024-12-01 20:57:35 +0000",
+      "minecraft:piglin": "2024-12-04 03:19:43 +0000",
       "minecraft:enderman": "2024-12-01 20:04:57 +0000",
       "minecraft:zombie": "2024-12-01 19:21:45 +0000",
       "minecraft:drowned": "2024-12-04 01:50:30 +0000"
@@ -493,7 +494,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:basalt_deltas": "2024-12-02 03:43:15 +0000"
+      "minecraft:nether_wastes": "2024-12-04 03:18:25 +0000",
+      "minecraft:basalt_deltas": "2024-12-02 03:43:15 +0000",
+      "minecraft:warped_forest": "2024-12-04 03:20:24 +0000"
     },
     "done": false
   },
