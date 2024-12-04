@@ -21786,3 +21786,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Dec2024 04:01:10.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Dec2024 04:01:10.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Dec2024 04:01:49.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6922ms or 138 ticks behind
+[04Dec2024 04:06:17.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 04:06:17.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 04:08:04.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcohola has made the advancement [Blade Soul Sphere]
+[04Dec2024 04:08:16.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <saparaider_08> oeonusvdovsh
+[04Dec2024 04:08:16.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcohola has made the advancement [Blade Soul Crystal]
+[04Dec2024 04:11:17.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 04:11:17.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 04:12:24.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saparaider_08 has made the advancement [Cobweb Entanglement]

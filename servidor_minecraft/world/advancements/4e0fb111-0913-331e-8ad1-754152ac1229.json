@@ -523,11 +523,23 @@
     },
     "done": true
   },
+  "slashblade:material/proudsoul_crystal": {
+    "criteria": {
+      "BrokenBlade": "2024-12-04 04:08:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2024-12-04 01:46:40 +0000"
     },
     "done": false
+  },
+  "slashblade:material/proudsoul_sphere": {
+    "criteria": {
+      "BrokenBlade": "2024-12-04 04:08:04 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
