@@ -1778,3 +1778,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Dec2024 03:35:04.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcohola has made the advancement [SlashBlade --]
 [04Dec2024 03:40:00.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: saparaider_08 moved wrongly!
 [04Dec2024 03:40:31.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved too quickly! -5.971458987160171,1.8452869178686058,8.23832962674522
+[04Dec2024 03:44:13.592] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: saparaider_08 lost connection: Disconnected
+[04Dec2024 03:44:13.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saparaider_08 left the game
+[04Dec2024 03:44:37.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 03:51:41.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 03:51:41.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 03:52:42.321] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: saparaider_08[/127.123.35.157:56077] logged in with entity id 110161 at (-130.59647388520338, 86.0, 102.5148274501676)
+[04Dec2024 03:52:42.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saparaider_08 joined the game
+[04Dec2024 03:52:49.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: saparaider_08 lost connection: You logged in from another location
+[04Dec2024 03:52:49.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saparaider_08 left the game
+[04Dec2024 03:52:49.671] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: saparaider_08[/127.123.35.157:46327] logged in with entity id 110324 at (-130.59647388520338, 86.0, 102.5148274501676)
+[04Dec2024 03:52:49.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saparaider_08 joined the game
