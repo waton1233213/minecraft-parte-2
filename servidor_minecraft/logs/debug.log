@@ -21926,3 +21926,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Dec2024 05:02:43.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saparaider_08 left the game
 [04Dec2024 05:03:30.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancholo3567 lost connection: Disconnected
 [04Dec2024 05:03:30.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancholo3567 left the game
+[04Dec2024 05:06:53.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 05:06:53.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 05:11:53.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 05:11:53.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
