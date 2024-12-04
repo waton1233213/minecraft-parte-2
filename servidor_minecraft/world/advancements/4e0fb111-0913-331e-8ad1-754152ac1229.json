@@ -142,7 +142,8 @@
       "mutton": "2024-12-01 18:59:23 +0000",
       "bread": "2024-12-01 19:33:39 +0000",
       "melon_slice": "2024-12-04 02:20:57 +0000",
-      "cooked_rabbit": "2024-12-04 02:29:32 +0000"
+      "cooked_rabbit": "2024-12-04 02:29:32 +0000",
+      "cooked_chicken": "2024-12-04 03:38:50 +0000"
     },
     "done": false
   },
@@ -185,13 +186,16 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-01 19:10:53 +0000",
+      "minecraft:ghast": "2024-12-04 03:22:15 +0000",
       "minecraft:magma_cube": "2024-12-02 03:44:13 +0000",
       "minecraft:spider": "2024-12-01 19:24:18 +0000",
       "minecraft:creeper": "2024-12-04 01:20:45 +0000",
       "minecraft:phantom": "2024-12-01 20:57:35 +0000",
+      "minecraft:zombified_piglin": "2024-12-04 03:23:27 +0000",
       "minecraft:piglin": "2024-12-04 03:19:43 +0000",
       "minecraft:enderman": "2024-12-01 20:04:57 +0000",
       "minecraft:zombie": "2024-12-01 19:21:45 +0000",
+      "quark:foxhound": "2024-12-04 03:40:49 +0000",
       "minecraft:drowned": "2024-12-04 01:50:30 +0000"
     },
     "done": false
@@ -494,11 +498,24 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-04 03:27:26 +0000",
       "minecraft:nether_wastes": "2024-12-04 03:18:25 +0000",
       "minecraft:basalt_deltas": "2024-12-02 03:43:15 +0000",
       "minecraft:warped_forest": "2024-12-04 03:20:24 +0000"
     },
     "done": false
+  },
+  "slashblade:blade/s_iron": {
+    "criteria": {
+      "crafting": "2024-12-04 03:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-12-04 03:22:15 +0000"
+    },
+    "done": true
   },
   "ars_nouveau:imbuement_chamber": {
     "criteria": {

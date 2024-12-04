@@ -20102,3 +20102,25 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Dec2024 03:21:05.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Dec2024 03:21:05.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Dec2024 03:22:15.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcohola has completed the challenge [Return to Sender]
+[04Dec2024 03:23:21.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved too quickly! 3.415999359333089,-1.551187840623669,12.107585753858501
+[04Dec2024 03:23:30.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 03:23:32.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 03:24:13.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 03:24:32.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved too quickly! -11.318922136764087,-2.040610277701802,-2.323056748585543
+[04Dec2024 03:26:05.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 03:26:05.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 03:26:48.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 03:26:49.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 03:31:05.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 03:31:05.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 03:32:38.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saparaider_08 has made the advancement [Broken Edge]
+[04Dec2024 03:32:47.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[04Dec2024 03:33:18.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saparaider_08 has made the advancement [SlashBlade --]
+[04Dec2024 03:34:56.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Arcohola> __
+[04Dec2024 03:35:04.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcohola has made the advancement [SlashBlade --]
+[04Dec2024 03:36:05.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 03:36:05.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 03:40:00.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: saparaider_08 moved wrongly!
+[04Dec2024 03:40:31.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved too quickly! -5.971458987160171,1.8452869178686058,8.23832962674522
+[04Dec2024 03:41:05.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 03:41:05.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

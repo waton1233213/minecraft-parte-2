@@ -144,11 +144,14 @@
       "minecraft:spider": "2024-12-01 01:28:07 +0000",
       "minecraft:creeper": "2024-12-02 02:50:06 +0000",
       "quark:forgotten": "2024-12-01 03:17:59 +0000",
+      "minecraft:zombified_piglin": "2024-12-04 03:26:29 +0000",
       "minecraft:witch": "2024-12-01 03:31:23 +0000",
       "minecraft:cave_spider": "2024-12-01 03:16:06 +0000",
+      "minecraft:piglin": "2024-12-04 03:26:22 +0000",
       "minecraft:enderman": "2024-12-01 20:36:54 +0000",
       "minecraft:silverfish": "2024-12-03 03:26:49 +0000",
-      "minecraft:zombie": "2024-12-01 01:40:43 +0000"
+      "minecraft:zombie": "2024-12-01 01:40:43 +0000",
+      "quark:foxhound": "2024-12-04 03:21:29 +0000"
     },
     "done": false
   },
@@ -490,6 +493,12 @@
     },
     "done": true
   },
+  "slashblade:blade/s_iron": {
+    "criteria": {
+      "crafting": "2024-12-04 03:33:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-12-04 02:36:44 +0000"
@@ -513,6 +522,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-04 03:10:25 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/broken_white": {
+    "criteria": {
+      "BrokenBlade": "2024-12-04 03:32:38 +0000"
     },
     "done": true
   },
