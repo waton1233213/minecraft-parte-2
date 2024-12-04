@@ -1613,3 +1613,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Dec2024 23:38:37.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancholo3567> sexooooo
 [04Dec2024 23:38:40.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancholo3567> sexoooo
 [04Dec2024 23:38:42.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancholo3567> sexooo
+[04Dec2024 23:40:03.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[04Dec2024 23:40:18.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancholo3567 lost connection: Disconnected
+[04Dec2024 23:40:18.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancholo3567 left the game
+[04Dec2024 23:40:20.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2575ms or 51 ticks behind
+[04Dec2024 23:41:08.197] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pancholo3567[/127.198.167.169:40581] logged in with entity id 21117 at (-841.2512892449698, 64.0, 945.457794053811)
+[04Dec2024 23:41:08.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancholo3567 joined the game
+[04Dec2024 23:41:31.315] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancholo3567 accepted server config.
+[04Dec2024 23:41:38.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancholo3567 lost connection: Timed out
+[04Dec2024 23:41:38.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancholo3567 left the game
+[04Dec2024 23:41:38.462] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Dec2024 23:43:21.378] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pancholo3567[/127.198.167.169:37807] logged in with entity id 22955 at (-841.2512892449698, 64.0, 945.457794053811)
+[04Dec2024 23:43:21.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancholo3567 joined the game
+[04Dec2024 23:43:29.719] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancholo3567 accepted server config.
+[04Dec2024 23:45:04.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancholo3567 has made the advancement [Abilities -Kick Jump-            ]
+[04Dec2024 23:46:55.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
