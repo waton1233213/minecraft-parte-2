@@ -644,6 +644,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-05 02:10:27 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_yeti": {
     "criteria": {
       "previous_progression": "2024-12-05 01:10:44 +0000",
