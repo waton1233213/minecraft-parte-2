@@ -252,6 +252,7 @@
       "minecraft:blaze": "2024-12-01 19:40:33 +0000",
       "minecraft:skeleton": "2024-12-01 01:36:16 +0000",
       "minecraft:hoglin": "2024-12-01 19:27:03 +0000",
+      "minecraft:magma_cube": "2024-12-05 01:36:29 +0000",
       "minecraft:piglin_brute": "2024-12-01 19:29:41 +0000",
       "minecraft:spider": "2024-12-02 04:22:54 +0000",
       "minecraft:creeper": "2024-12-01 01:36:19 +0000",
@@ -638,6 +639,12 @@
   "create:crushing_wheel": {
     "criteria": {
       "0": "2024-12-03 03:21:55 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2024-12-05 01:43:08 +0000"
     },
     "done": true
   },
