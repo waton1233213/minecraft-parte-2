@@ -642,6 +642,18 @@
     },
     "done": true
   },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2024-12-05 02:22:38 +0000"
+    },
+    "done": true
+  },
+  "create:hose_pulley_lava": {
+    "criteria": {
+      "0": "2024-12-05 02:22:39 +0000"
+    },
+    "done": true
+  },
   "create:copper_casing": {
     "criteria": {
       "0": "2024-12-05 01:43:08 +0000"
@@ -654,9 +666,21 @@
     },
     "done": true
   },
+  "create:hose_pulley": {
+    "criteria": {
+      "0": "2024-12-05 02:22:39 +0000"
+    },
+    "done": true
+  },
   "create_enchantment_industry:recipes/disenchanter": {
     "criteria": {
       "has_item": "2024-12-05 01:43:24 +0000"
+    },
+    "done": true
+  },
+  "create:lava_wheel_00000": {
+    "criteria": {
+      "0": "2024-12-05 02:27:37 +0000"
     },
     "done": true
   },
