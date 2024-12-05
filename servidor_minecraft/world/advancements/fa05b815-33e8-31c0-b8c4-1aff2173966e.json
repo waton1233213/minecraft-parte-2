@@ -393,6 +393,12 @@
     },
     "done": true
   },
+  "slashblade:arts/combo_c": {
+    "criteria": {
+      "customtrigger": "2024-12-05 00:01:19 +0000"
+    },
+    "done": true
+  },
   "slashblade:abilities/kick_jump": {
     "criteria": {
       "customtrigger": "2024-12-04 23:45:04 +0000"

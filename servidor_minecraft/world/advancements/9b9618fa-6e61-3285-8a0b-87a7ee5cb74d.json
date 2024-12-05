@@ -349,6 +349,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2024-12-04 23:55:21 +0000",
       "potato": "2024-12-02 03:58:03 +0000",
       "wheat": "2024-12-02 02:09:01 +0000",
       "carrot": "2024-12-02 03:44:46 +0000"
@@ -574,15 +575,15 @@
     },
     "done": false
   },
-  "slashblade:arts/shooting/spiral_swords": {
-    "criteria": {
-      "customtrigger": "2024-12-04 23:22:39 +0000"
-    },
-    "done": true
-  },
   "slashblade:arts/shooting/summonedswords": {
     "criteria": {
       "customtrigger": "2024-12-04 23:22:08 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/shooting/spiral_swords": {
+    "criteria": {
+      "customtrigger": "2024-12-04 23:22:39 +0000"
     },
     "done": true
   },
