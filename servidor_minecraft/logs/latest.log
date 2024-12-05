@@ -87,3 +87,24 @@
 [05Dec2024 00:59:48.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
 [05Dec2024 00:59:58.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcohola has reached the goal [Time To Even The Scales]
 [05Dec2024 00:59:58.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saparaider_08 has reached the goal [Time To Even The Scales]
+[05Dec2024 01:02:38.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[05Dec2024 01:02:46.676] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: saparaider_08 lost connection: Disconnected
+[05Dec2024 01:02:46.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saparaider_08 left the game
+[05Dec2024 01:02:58.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4666ms or 93 ticks behind
+[05Dec2024 01:05:19.294] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@20c88388[id=<null>,name=saparaider_08,properties={},legacy=false] (/127.123.35.157:60561) lost connection: Disconnected
+[05Dec2024 01:05:29.277] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: saparaider_08[/127.123.35.157:36131] logged in with entity id 97329 at (-7166.957138957286, 5.0, 8224.15296154616)
+[05Dec2024 01:05:29.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saparaider_08 joined the game
+[05Dec2024 01:05:40.664] [Server thread/INFO] [do_a_barrel_roll/]: Client of saparaider_08 accepted server config.
+[05Dec2024 01:07:25.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[05Dec2024 01:08:40.456] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Arcohola with unique ID fc59f129-c772-4e40-bbd7-ebfc50d75966
+[05Dec2024 01:08:40.461] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -7156 Y: 54 Z: 8220
+[05Dec2024 01:08:40.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcohola succumbed to the Lich's explosive magic
+[05Dec2024 01:08:42.787] [Server thread/INFO] [do_a_barrel_roll/]: Client of Arcohola accepted server config.
+[05Dec2024 01:08:48.954] [Server thread/INFO] [do_a_barrel_roll/]: Client of Arcohola accepted server config.
+[05Dec2024 01:10:44.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saparaider_08 has reached the goal [Bring Out Your Dead]
+[05Dec2024 01:10:44.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcohola has reached the goal [Bring Out Your Dead]
+[05Dec2024 01:11:50.458] [Server thread/INFO] [do_a_barrel_roll/]: Client of Bobynas accepted server config.
+[05Dec2024 01:11:52.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[05Dec2024 01:12:15.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7809ms or 156 ticks behind
+[05Dec2024 01:12:32.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2726ms or 54 ticks behind
+[05Dec2024 01:12:51.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3857ms or 77 ticks behind

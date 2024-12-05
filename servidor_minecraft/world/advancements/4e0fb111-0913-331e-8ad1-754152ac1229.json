@@ -141,8 +141,10 @@
       "cooked_mutton": "2024-12-04 02:51:02 +0000",
       "cooked_beef": "2024-12-01 19:03:45 +0000",
       "apple": "2024-12-04 04:24:30 +0000",
+      "cooked_cod": "2024-12-05 01:08:30 +0000",
       "mutton": "2024-12-01 18:59:23 +0000",
       "bread": "2024-12-01 19:33:39 +0000",
+      "golden_apple": "2024-12-05 01:10:00 +0000",
       "melon_slice": "2024-12-04 02:20:57 +0000",
       "cooked_rabbit": "2024-12-04 02:29:32 +0000",
       "cooked_chicken": "2024-12-04 03:38:50 +0000"
@@ -573,6 +575,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2024-12-05 01:10:44 +0000"
+    },
+    "done": false
+  },
   "slashblade:blade/ex/fox_white": {
     "criteria": {
       "crafting": "2024-12-05 00:16:08 +0000"
@@ -585,17 +593,30 @@
     },
     "done": true
   },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2024-12-05 01:10:44 +0000"
+    },
+    "done": false
+  },
   "twilightforest:twilight_dinner": {
     "criteria": {
       "cooked_venison": "2024-12-04 22:57:20 +0000"
     },
     "done": false
   },
-  "twilightforest:progress_lich": {
+  "twilightforest:progress_yeti": {
     "criteria": {
-      "kill_naga": "2024-12-05 00:59:58 +0000"
+      "previous_progression": "2024-12-05 01:10:44 +0000"
     },
     "done": false
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2024-12-05 00:59:58 +0000",
+      "was_in_fight": "2024-12-05 01:10:44 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
