@@ -571,9 +571,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
-      "0": "2024-12-04 23:10:47 +0000"
+      "0": "2024-12-04 23:10:47 +0000",
+      "1": "2024-12-05 01:57:48 +0000"
     },
-    "done": false
+    "done": true
   },
   "slashblade:arts/shooting/summonedswords": {
     "criteria": {
@@ -608,7 +609,20 @@
   },
   "twilightforest:progress_glacier": {
     "criteria": {
-      "previous_progression": "2024-12-05 01:18:34 +0000"
+      "previous_progression": "2024-12-05 01:18:34 +0000",
+      "was_in_fight": "2024-12-05 01:53:35 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/printer": {
+    "criteria": {
+      "has_item": "2024-12-05 02:00:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "snow_queen": "2024-12-05 01:53:35 +0000"
     },
     "done": false
   },
@@ -617,6 +631,12 @@
       "kill_lich": "2024-12-05 01:10:44 +0000"
     },
     "done": false
+  },
+  "create_enchantment_industry:recipes/disenchanter": {
+    "criteria": {
+      "has_item": "2024-12-05 02:00:05 +0000"
+    },
+    "done": true
   },
   "twilightforest:break_glass_sword": {
     "criteria": {
