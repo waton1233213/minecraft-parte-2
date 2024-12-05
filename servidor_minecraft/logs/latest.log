@@ -3,3 +3,31 @@
 [05Dec2024 00:09:18.776] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancholo3567 accepted server config.
 [05Dec2024 00:09:19.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
 [05Dec2024 00:10:31.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[05Dec2024 00:10:55.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[05Dec2024 00:11:15.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5128ms or 102 ticks behind
+[05Dec2024 00:12:15.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancholo3567 has made the advancement [Hidden in the Depths]
+[05Dec2024 00:12:47.587] [Server thread/INFO] [do_a_barrel_roll/]: Client of Pancholo3567 accepted server config.
+[05Dec2024 00:13:05.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancholo3567 has made the advancement [Blade Arts -Judgement Cut-        ]
+[05Dec2024 00:13:16.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancholo3567 has made the advancement [Blade Arts -Aerial Rave B-       ]
+[05Dec2024 00:13:17.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancholo3567 has made the advancement [Blade Arts -Rapid Slash-         ]
+[05Dec2024 00:13:23.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancholo3567 has made the advancement [Blade Arts -Aerial Rave A-       ]
+[05Dec2024 00:16:08.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcohola has made the advancement [-Weiss- SakuraFox]
+[05Dec2024 00:17:39.004] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-822, y=65, z=899} BlockPos{x=-821, y=66, z=901}
+[05Dec2024 00:18:21.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5665ms or 113 ticks behind
+[05Dec2024 00:18:22.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved too quickly! -0.9027421379964835,-1.4199999868869781,10.537034876403027
+[05Dec2024 00:18:22.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bobynas> a
+[05Dec2024 00:18:46.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9239ms or 184 ticks behind
+[05Dec2024 00:18:52.693] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=31, z=-358}
+[05Dec2024 00:18:52.712] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-321, y=25, z=-365}
+[05Dec2024 00:18:52.712] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=36, z=-361}
+[05Dec2024 00:18:54.171] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=31, z=-381}
+[05Dec2024 00:18:54.171] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=31, z=-381}
+[05Dec2024 00:18:54.172] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=26, z=-380}
+[05Dec2024 00:18:54.172] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=26, z=-380}
+[05Dec2024 00:18:54.173] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=28, z=-380}
+[05Dec2024 00:19:06.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5940ms or 118 ticks behind
+[05Dec2024 00:28:30.411] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bobynas lost connection: Timed out
+[05Dec2024 00:28:30.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bobynas left the game
+[05Dec2024 00:30:14.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bobynas[/127.162.18.94:44655] logged in with entity id 59379 at (-829.8133457746193, 63.0, 935.222664200461)
+[05Dec2024 00:30:14.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bobynas joined the game
+[05Dec2024 00:30:27.189] [Server thread/INFO] [do_a_barrel_roll/]: Client of Bobynas accepted server config.
