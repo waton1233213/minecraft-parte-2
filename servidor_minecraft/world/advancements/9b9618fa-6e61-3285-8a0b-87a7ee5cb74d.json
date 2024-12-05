@@ -606,6 +606,12 @@
     },
     "done": false
   },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2024-12-05 01:18:34 +0000"
+    },
+    "done": false
+  },
   "twilightforest:progress_labyrinth": {
     "criteria": {
       "kill_lich": "2024-12-05 01:10:44 +0000"
@@ -614,9 +620,10 @@
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2024-12-05 01:10:44 +0000"
+      "previous_progression": "2024-12-05 01:10:44 +0000",
+      "yeti": "2024-12-05 01:18:34 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
