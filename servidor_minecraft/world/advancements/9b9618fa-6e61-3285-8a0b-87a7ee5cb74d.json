@@ -618,6 +618,12 @@
     },
     "done": false
   },
+  "twilightforest:break_glass_sword": {
+    "criteria": {
+      "broken_sword": "2024-12-05 01:46:26 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_yeti": {
     "criteria": {
       "previous_progression": "2024-12-05 01:10:44 +0000",

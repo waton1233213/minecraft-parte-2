@@ -174,3 +174,17 @@
 [05Dec2024 01:41:20.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bobynas moved too quickly! -9.860012640690911,1.130906499714527,2.3218605250175415
 [05Dec2024 01:43:08.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bobynas has made the advancement [The Copper Age]
 [05Dec2024 01:43:47.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved too quickly! -4.747782566278147,6.892641422010556,8.122770100831985
+[05Dec2024 01:44:34.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[05Dec2024 01:44:49.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[05Dec2024 01:44:49.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[05Dec2024 01:46:16.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved too quickly! 5.023052591666783,3.579757968274677,9.072175889676146
+[05Dec2024 01:46:20.920] [Server thread/INFO] [do_a_barrel_roll/]: Client of Bobynas accepted server config.
+[05Dec2024 01:46:26.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saparaider_08 has completed the challenge [One Hit Wonder]
+[05Dec2024 01:49:42.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved too quickly! 7.1121471564883905,7.183465984418206,-5.360248775048603
+[05Dec2024 01:51:39.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcohola has made the advancement [Blade Arts -Judgement Cut-        ]
+[05Dec2024 01:52:35.016] [Server thread/INFO] [do_a_barrel_roll/]: Client of Bobynas accepted server config.
+[05Dec2024 01:52:38.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[05Dec2024 01:53:02.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bobynas> a
+[05Dec2024 01:53:28.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[05Dec2024 01:53:35.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcohola has reached the goal [Clear Skies]
+[05Dec2024 01:53:35.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saparaider_08 has reached the goal [Clear Skies]

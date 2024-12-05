@@ -606,6 +606,12 @@
     },
     "done": false
   },
+  "slashblade:arts/judgement_cut": {
+    "criteria": {
+      "customtrigger": "2024-12-05 01:51:39 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_dinner": {
     "criteria": {
       "maze_wafer": "2024-12-05 01:30:06 +0000",

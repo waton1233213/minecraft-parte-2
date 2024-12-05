@@ -648,5 +648,17 @@
     },
     "done": true
   },
+  "create_enchantment_industry:recipes/printer": {
+    "criteria": {
+      "has_item": "2024-12-05 01:43:24 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/disenchanter": {
+    "criteria": {
+      "has_item": "2024-12-05 01:43:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
