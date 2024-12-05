@@ -277,3 +277,14 @@
 [05Dec2024 02:32:15.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
 [05Dec2024 02:32:50.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2290ms or 45 ticks behind
 [05Dec2024 02:34:16.576] [Server thread/INFO] [do_a_barrel_roll/]: Client of Bobynas accepted server config.
+[05Dec2024 02:41:32.401] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Bobynas with unique ID 77b16924-c50e-405a-a969-6fc91646bd3d
+[05Dec2024 02:41:32.402] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -83 Y: 69 Z: 109
+[05Dec2024 02:41:32.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bobynas burned to death
+[05Dec2024 02:41:34.549] [Server thread/INFO] [do_a_barrel_roll/]: Client of Bobynas accepted server config.
+[05Dec2024 02:41:45.960] [Server thread/INFO] [do_a_barrel_roll/]: Client of Bobynas accepted server config.
+[05Dec2024 02:41:46.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3675ms or 73 ticks behind
+[05Dec2024 02:42:05.955] [Server thread/INFO] [do_a_barrel_roll/]: Client of Bobynas accepted server config.
+[05Dec2024 02:43:29.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bobynas: The difficulty has been set to Peaceful]
+[05Dec2024 02:43:33.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bobynas: The difficulty has been set to Hard]
+[05Dec2024 02:46:48.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bobynas lost connection: Disconnected
+[05Dec2024 02:46:48.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bobynas left the game

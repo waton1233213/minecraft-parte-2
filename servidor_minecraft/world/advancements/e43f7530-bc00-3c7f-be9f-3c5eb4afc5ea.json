@@ -666,6 +666,12 @@
     },
     "done": true
   },
+  "create:spout": {
+    "criteria": {
+      "0": "2024-12-05 02:40:52 +0000"
+    },
+    "done": true
+  },
   "create:hose_pulley": {
     "criteria": {
       "0": "2024-12-05 02:22:39 +0000"
