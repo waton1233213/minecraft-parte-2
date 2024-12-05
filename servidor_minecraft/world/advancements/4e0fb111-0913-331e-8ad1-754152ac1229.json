@@ -567,15 +567,33 @@
     },
     "done": true
   },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2024-12-05 00:59:58 +0000"
+    },
+    "done": true
+  },
   "slashblade:blade/ex/fox_white": {
     "criteria": {
       "crafting": "2024-12-05 00:16:08 +0000"
     },
     "done": true
   },
+  "slashblade:abilities/guard": {
+    "criteria": {
+      "customtrigger": "2024-12-05 00:59:19 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_dinner": {
     "criteria": {
       "cooked_venison": "2024-12-04 22:57:20 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2024-12-05 00:59:58 +0000"
     },
     "done": false
   },

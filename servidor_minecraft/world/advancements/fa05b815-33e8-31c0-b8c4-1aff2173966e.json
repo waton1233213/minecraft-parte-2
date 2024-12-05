@@ -393,9 +393,21 @@
     },
     "done": true
   },
+  "slashblade:arts/combo_b": {
+    "criteria": {
+      "customtrigger": "2024-12-05 00:58:58 +0000"
+    },
+    "done": true
+  },
   "slashblade:arts/combo_c": {
     "criteria": {
       "customtrigger": "2024-12-05 00:01:19 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/enemy_step": {
+    "criteria": {
+      "customtrigger": "2024-12-05 00:53:14 +0000"
     },
     "done": true
   },
