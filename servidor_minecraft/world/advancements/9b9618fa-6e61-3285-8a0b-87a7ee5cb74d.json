@@ -607,34 +607,23 @@
     },
     "done": false
   },
-  "twilightforest:progress_glacier": {
-    "criteria": {
-      "previous_progression": "2024-12-05 01:18:34 +0000",
-      "was_in_fight": "2024-12-05 01:53:35 +0000"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:recipes/printer": {
-    "criteria": {
-      "has_item": "2024-12-05 02:00:05 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_merge": {
-    "criteria": {
-      "snow_queen": "2024-12-05 01:53:35 +0000"
-    },
-    "done": false
-  },
   "twilightforest:progress_labyrinth": {
     "criteria": {
       "kill_lich": "2024-12-05 01:10:44 +0000"
     },
     "done": false
   },
-  "create_enchantment_industry:recipes/disenchanter": {
+  "twilightforest:progress_yeti": {
     "criteria": {
-      "has_item": "2024-12-05 02:00:05 +0000"
+      "previous_progression": "2024-12-05 01:10:44 +0000",
+      "yeti": "2024-12-05 01:18:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2024-12-05 01:18:34 +0000",
+      "was_in_fight": "2024-12-05 01:53:35 +0000"
     },
     "done": true
   },
@@ -644,16 +633,27 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "twilightforest:progress_merge": {
     "criteria": {
-      "shot_arrow": "2024-12-05 02:10:27 +0000"
+      "snow_queen": "2024-12-05 01:53:35 +0000"
+    },
+    "done": false
+  },
+  "create_enchantment_industry:recipes/printer": {
+    "criteria": {
+      "has_item": "2024-12-05 02:00:05 +0000"
     },
     "done": true
   },
-  "twilightforest:progress_yeti": {
+  "create_enchantment_industry:recipes/disenchanter": {
     "criteria": {
-      "previous_progression": "2024-12-05 01:10:44 +0000",
-      "yeti": "2024-12-05 01:18:34 +0000"
+      "has_item": "2024-12-05 02:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-05 02:10:27 +0000"
     },
     "done": true
   },
