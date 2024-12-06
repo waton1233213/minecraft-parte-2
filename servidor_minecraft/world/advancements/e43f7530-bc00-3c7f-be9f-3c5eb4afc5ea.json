@@ -696,5 +696,17 @@
     },
     "done": true
   },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2024-12-06 03:04:36 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/enchanting_guide": {
+    "criteria": {
+      "has_item": "2024-12-06 03:04:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

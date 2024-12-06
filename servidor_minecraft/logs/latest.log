@@ -1693,3 +1693,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Dec2024 03:01:26.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: saparaider_08 moved too quickly! -6300.911246317545,-56.92159999847412,7275.154542714772
 [06Dec2024 03:01:27.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bobynas> A
 [06Dec2024 03:01:45.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3775ms or 75 ticks behind
+[06Dec2024 03:05:56.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[06Dec2024 03:07:00.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[06Dec2024 03:08:27.065] [Server thread/INFO] [do_a_barrel_roll/]: Client of saparaider_08 accepted server config.
+[06Dec2024 03:08:27.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3118ms or 62 ticks behind
+[06Dec2024 03:12:36.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saparaider_08 has made the advancement [Bonfire Lit]
+[06Dec2024 03:13:41.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saparaider_08 has made the advancement [Blade Soul Trapezohedron]
+[06Dec2024 03:14:41.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saparaider_08 has made the advancement [-Chizuru- Muramasa]
