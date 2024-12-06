@@ -1754,3 +1754,23 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Dec2024 03:54:44.009] [Server thread/INFO] [do_a_barrel_roll/]: Client of Bobynas accepted server config.
 [06Dec2024 03:54:59.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6620ms or 132 ticks behind
 [06Dec2024 03:56:18.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arcohola: Gave 1 [Lich Spawn Egg] to Arcohola]
+[06Dec2024 03:58:13.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[06Dec2024 03:58:33.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4936ms or 98 ticks behind
+[06Dec2024 03:59:35.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arcohola: Gave 1 [Lich Spawn Egg] to Arcohola]
+[06Dec2024 03:59:50.313] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bobynas lost connection: Timed out
+[06Dec2024 03:59:50.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bobynas left the game
+[06Dec2024 03:59:50.484] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Dec2024 04:01:33.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arcohola: Gave 1 [Lich Spawn Egg] to Arcohola]
+[06Dec2024 04:02:00.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcohola has made the advancement [Maximum extension of Combo B]
+[06Dec2024 04:02:26.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[06Dec2024 04:03:09.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arcohola: Gave 1 [Lich Spawn Egg] to Arcohola]
+[06Dec2024 04:03:09.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arcohola: Gave 1 [Lich Spawn Egg] to Arcohola]
+[06Dec2024 04:05:56.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[06Dec2024 04:05:56.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[06Dec2024 04:06:08.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[06Dec2024 04:06:11.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[06Dec2024 04:06:23.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[06Dec2024 04:06:33.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved too quickly! -8.037645409577635,1.8220454265065413,-6.0408494245384645
+[06Dec2024 04:06:35.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[06Dec2024 04:06:36.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[06Dec2024 04:07:32.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arcohola: Gave 1 [Lich Spawn Egg] to Arcohola]
