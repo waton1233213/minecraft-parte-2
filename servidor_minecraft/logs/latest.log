@@ -1774,3 +1774,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Dec2024 04:06:35.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
 [06Dec2024 04:06:36.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
 [06Dec2024 04:07:32.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arcohola: Gave 1 [Lich Spawn Egg] to Arcohola]
+[06Dec2024 04:09:26.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[06Dec2024 04:10:07.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arcohola: Gave 1 [Lich Spawn Egg] to Arcohola]
+[06Dec2024 04:12:09.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[06Dec2024 04:12:14.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[06Dec2024 04:12:55.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved wrongly!
+[06Dec2024 04:13:26.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved too quickly! 0.10153070205069525,-20.814464671303035,0.021806212313094875
+[06Dec2024 04:13:59.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arcohola: Gave 1 [Lich Spawn Egg] to Arcohola]
+[06Dec2024 04:15:46.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: saparaider_08 moved wrongly!
+[06Dec2024 04:15:48.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved too quickly! -0.8773869573642514,2.60312854177233,12.348629493160843
+[06Dec2024 04:16:27.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arcohola: Gave 1 [Lich Spawn Egg] to Arcohola]
+[06Dec2024 04:18:58.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola moved too quickly! 17.579818773827355,1.6491705076727872,16.216393157391394
