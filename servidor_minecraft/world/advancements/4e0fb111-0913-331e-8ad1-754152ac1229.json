@@ -672,5 +672,11 @@
     },
     "done": true
   },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2024-12-06 03:43:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -657,9 +657,9 @@
     },
     "done": true
   },
-  "slashblade:blade/ex/muramasa": {
+  "farmersdelight:main/place_campfire": {
     "criteria": {
-      "crafting": "2024-12-06 03:14:41 +0000"
+      "campfire": "2024-12-06 03:12:36 +0000"
     },
     "done": true
   },
@@ -669,9 +669,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/place_campfire": {
+  "slashblade:blade/ex/muramasa": {
     "criteria": {
-      "campfire": "2024-12-06 03:12:36 +0000"
+      "crafting": "2024-12-06 03:14:41 +0000"
     },
     "done": true
   },
