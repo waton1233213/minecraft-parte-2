@@ -575,6 +575,7 @@
   "twilightforest:twilight_dinner": {
     "criteria": {
       "maze_wafer": "2024-12-05 01:30:06 +0000",
+      "cooked_meef": "2024-12-06 04:19:42 +0000",
       "cooked_venison": "2024-12-04 22:57:20 +0000"
     },
     "done": false
@@ -669,6 +670,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-12-05 02:23:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:lich_scepters": {
+    "criteria": {
+      "scepters": "2024-12-06 04:25:56 +0000"
     },
     "done": true
   },
