@@ -1813,3 +1813,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Dec2024 04:39:10.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola lost connection: Disconnected
 [06Dec2024 04:39:10.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcohola left the game
 [06Dec2024 04:39:12.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: saparaider_08 moved wrongly!
+[06Dec2024 04:39:47.136] [Server thread/INFO] [do_a_barrel_roll/]: Client of saparaider_08 accepted server config.
+[06Dec2024 04:39:47.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3132ms or 62 ticks behind
+[06Dec2024 04:39:54.973] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: saparaider_08 lost connection: Disconnected
+[06Dec2024 04:39:54.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saparaider_08 left the game

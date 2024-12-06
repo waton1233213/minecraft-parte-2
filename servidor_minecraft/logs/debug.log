@@ -19624,3 +19624,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Dec2024 04:39:10.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcohola lost connection: Disconnected
 [06Dec2024 04:39:10.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcohola left the game
 [06Dec2024 04:39:12.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: saparaider_08 moved wrongly!
+[06Dec2024 04:39:44.028] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-886, y=62, z=968}
+[06Dec2024 04:39:47.136] [Server thread/INFO] [do_a_barrel_roll/]: Client of saparaider_08 accepted server config.
+[06Dec2024 04:39:47.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3132ms or 62 ticks behind
+[06Dec2024 04:39:54.973] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: saparaider_08 lost connection: Disconnected
+[06Dec2024 04:39:54.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saparaider_08 left the game
+[06Dec2024 04:42:39.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 04:42:39.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 04:47:39.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 04:47:39.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
