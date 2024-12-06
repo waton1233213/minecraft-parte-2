@@ -657,5 +657,23 @@
     },
     "done": true
   },
+  "slashblade:blade/ex/muramasa": {
+    "criteria": {
+      "crafting": "2024-12-06 03:14:41 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul_trapezohedron": {
+    "criteria": {
+      "BrokenBlade": "2024-12-06 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2024-12-06 03:12:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

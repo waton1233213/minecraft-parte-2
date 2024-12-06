@@ -18379,3 +18379,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Dec2024 03:12:36.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saparaider_08 has made the advancement [Bonfire Lit]
 [06Dec2024 03:13:41.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saparaider_08 has made the advancement [Blade Soul Trapezohedron]
 [06Dec2024 03:14:41.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saparaider_08 has made the advancement [-Chizuru- Muramasa]
+[06Dec2024 03:16:21.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 03:16:21.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 03:21:21.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 03:21:21.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 03:26:16.417] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-7188, y=5, z=8244}
+[06Dec2024 03:26:18.042] [Server thread/INFO] [do_a_barrel_roll/]: Client of saparaider_08 accepted server config.
+[06Dec2024 03:26:19.397] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-886, y=62, z=968}
+[06Dec2024 03:26:21.591] [Server thread/INFO] [do_a_barrel_roll/]: Client of saparaider_08 accepted server config.
+[06Dec2024 03:26:21.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3526ms or 70 ticks behind
+[06Dec2024 03:26:25.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 03:26:25.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
