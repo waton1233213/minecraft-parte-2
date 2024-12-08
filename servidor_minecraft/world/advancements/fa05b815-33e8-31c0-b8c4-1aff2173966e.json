@@ -394,27 +394,15 @@
     },
     "done": true
   },
-  "slashblade:arts/combo_b": {
+  "slashblade:abilities/kick_jump": {
     "criteria": {
-      "customtrigger": "2024-12-05 00:58:58 +0000"
+      "customtrigger": "2024-12-04 23:45:04 +0000"
     },
     "done": true
   },
   "slashblade:arts/combo_c": {
     "criteria": {
       "customtrigger": "2024-12-05 00:01:19 +0000"
-    },
-    "done": true
-  },
-  "slashblade:abilities/enemy_step": {
-    "criteria": {
-      "customtrigger": "2024-12-05 00:53:14 +0000"
-    },
-    "done": true
-  },
-  "slashblade:abilities/kick_jump": {
-    "criteria": {
-      "customtrigger": "2024-12-04 23:45:04 +0000"
     },
     "done": true
   },
@@ -436,15 +424,27 @@
     },
     "done": true
   },
+  "slashblade:arts/rapid_slash": {
+    "criteria": {
+      "customtrigger": "2024-12-05 00:13:17 +0000"
+    },
+    "done": true
+  },
   "slashblade:arts/aerial_a": {
     "criteria": {
       "customtrigger": "2024-12-05 00:13:23 +0000"
     },
     "done": true
   },
-  "slashblade:arts/rapid_slash": {
+  "slashblade:abilities/enemy_step": {
     "criteria": {
-      "customtrigger": "2024-12-05 00:13:17 +0000"
+      "customtrigger": "2024-12-05 00:53:14 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_b": {
+    "criteria": {
+      "customtrigger": "2024-12-05 00:58:58 +0000"
     },
     "done": true
   },

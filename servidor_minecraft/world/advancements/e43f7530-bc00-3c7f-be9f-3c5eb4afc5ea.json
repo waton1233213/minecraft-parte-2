@@ -727,6 +727,12 @@
     },
     "done": true
   },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2024-12-08 21:40:25 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_dinner": {
     "criteria": {
       "cooked_meef": "2024-12-08 21:36:44 +0000"
