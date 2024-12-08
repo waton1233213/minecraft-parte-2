@@ -463,8 +463,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
+      "lifedrain_scepter": "2024-12-08 22:13:00 +0000",
       "shield_scepter": "2024-12-08 21:54:57 +0000",
-      "trophy": "2024-12-08 21:53:26 +0000"
+      "trophy": "2024-12-08 21:53:26 +0000",
+      "zombie_scepter": "2024-12-08 22:12:07 +0000"
     },
     "done": false
   },
