@@ -673,12 +673,6 @@
     },
     "done": true
   },
-  "twilightforest:lich_scepters": {
-    "criteria": {
-      "scepters": "2024-12-06 04:25:56 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:novice_spell_book": {
     "criteria": {
       "has_novice_spell_book": "2024-12-06 03:43:33 +0000"
@@ -688,6 +682,12 @@
   "slashblade:arts/combo_b_max": {
     "criteria": {
       "customtrigger": "2024-12-06 04:02:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:lich_scepters": {
+    "criteria": {
+      "scepters": "2024-12-06 04:25:56 +0000"
     },
     "done": true
   },
