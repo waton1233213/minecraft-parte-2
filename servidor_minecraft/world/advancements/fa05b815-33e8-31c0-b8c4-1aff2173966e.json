@@ -318,6 +318,7 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
+      "cooked_meef": "2024-12-08 21:54:38 +0000",
       "cooked_venison": "2024-12-02 03:36:35 +0000"
     },
     "done": false
@@ -447,6 +448,25 @@
       "customtrigger": "2024-12-05 00:58:58 +0000"
     },
     "done": true
+  },
+  "slashblade:blade/ex/tukumo": {
+    "criteria": {
+      "crafting": "2024-12-08 21:54:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "trophy": "2024-12-08 21:53:13 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "shield_scepter": "2024-12-08 21:54:57 +0000",
+      "trophy": "2024-12-08 21:53:26 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

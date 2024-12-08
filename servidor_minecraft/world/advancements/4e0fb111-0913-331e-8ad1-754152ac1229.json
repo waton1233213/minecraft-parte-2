@@ -704,5 +704,11 @@
     },
     "done": true
   },
+  "ars_nouveau:eat_bombegranate": {
+    "criteria": {
+      "eat_bombegranate": "2024-12-08 22:00:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
